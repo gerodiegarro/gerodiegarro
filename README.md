@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### i'm collin. a self-taught fullstack developer.
+#### i'm Gero. a self-taught fullstack developer.
 
 head of development at [Sync](https://discord.gg/syncbio)<br>
 
